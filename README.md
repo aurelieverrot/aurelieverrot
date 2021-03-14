@@ -12,7 +12,7 @@ After 6 months of internship as a dev, I am now freelancing and open to a full-t
 
 
 #### Skills Shaker
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby_On_Rails&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RSpec-informational?style=flat&logo=RSpec&logoColor=white&color=4AB197)
 

@@ -2,7 +2,8 @@
 
 I am Aurelie (she/her), Software Engineer from California.
 I am working mostly with the Ruby on Rails / PostgreSQL stack, and can work with Javascript / React / MongoDB / Node.JS or Python / Django.
-After 6 months of internship as a dev, I am now freelancing and open to a full-time position. Bonus points if the company's mission concerns Health, Education or Environment.
+After 6 months of internship and some freelancing as a Ruby on Rails Software Engineer, I am now searching for a full-time position. 
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/aurelieverrot)
 [![2nd Github Badge](https://img.shields.io/badge/Github-2ndProfile-informational?style=flat&logo=github&logoColor=white&color=4AB197)](https://github.com/aurelie-verrot)

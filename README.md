@@ -1,6 +1,8 @@
 ### Hi There 👋
 
-I am Aurelie (she/her), Software Engineer from California working at Zendesk in the Internationalization (i18n) team, where I maintain and build the tools to provide translations to all Zendesk products. I mostly work with Ruby on Rails, but also do a bit of Javascript / React and can work with a JS backend (MongoDB / Node.JS) or Python / Django.
+I am Aurelie (she/her), Software Engineer from California working at Zendesk in the Internationalization (i18n) team, where I maintain and build the tools to provide translations to all Zendesk products. I mostly work with Ruby on Rails, on the Backend. 
+
+I am also an editor and the English translator for the [WomenOnRails newsletter](https://womenonrailsinternational.substack.com/)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/aurelieverrot)
@@ -16,15 +18,12 @@ I am Aurelie (she/her), Software Engineer from California working at Zendesk in 
 
 
 ### Skills Shaker
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-RSpec-informational?style=flat&logo=RSpec&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
-
+I use Ruby, and also some Python and Javascript.
+I store with PostgreSQL and MySQL.
+I made my way through some DevOps tickets.
+I have experience in tiny, little, medium and HUGE codebases.
+I train, mentor, cheer up.
+I can explain one thing or two about Internationalization (i18n).
+I am internationnally acclaimed for my documentation (not for my typos, but I can use the English Second Language card for that).
+I can make good cakes for my colleagues, though since I work remote I eat them.
+And my French accent can make the grumpiest person laugh.

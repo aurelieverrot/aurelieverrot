@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I am Aurelie (she/her), Software Engineer from California working at Zendesk in the Internationalization (i18n) team, where I maintain and build the tools to provide translations to all Zendesk products. I mostly work with Ruby on Rails, on the Backend. 
+I am Aurelie (she/her), Software Engineer from California working at Zendesk in the Internationalization (i18n) team, where I maintain and build the tools to provide localized content to all Zendesk products. I mostly work with Ruby on Rails, on the Backend. 
 
 I am also an editor and the English translator for the [WomenOnRails newsletter](https://womenonrailsinternational.substack.com/)
 

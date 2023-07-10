@@ -14,16 +14,14 @@ I am also an editor and the English translator for the [WomenOnRails newsletter]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelieverrot&layout=compact&theme=dracula)](https://github.com/aurelieverrot)
 
-![Aurelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelieverrot&show_icons=true&theme=dracula)
-
 
 ### Skills Shaker
 I use Ruby, and also some Python and Javascript.
 I store with PostgreSQL and MySQL.
 I made my way through some DevOps tickets.
-I have experience in tiny, little, medium and HUGE codebases.
+I have experience in tiny, little, medium, and HUGE codebases.
 I train, mentor, cheer up.
 I can explain one thing or two about Internationalization (i18n).
-I am internationnally acclaimed for my documentation (not for my typos, but I can use the English Second Language card for that).
-I can make good cakes for my colleagues, though since I work remote I eat them.
+I am internationally acclaimed for my documentation (not for my typos, but I can use the English Second Language card for that).
+I can make good cakes for my colleagues, though since I work remotely I eat them.
 And my French accent can make the grumpiest person laugh.

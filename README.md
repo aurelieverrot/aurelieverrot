@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I am Aurelie (she/her), Software Engineer from California working at Zendesk in the Internationalization (i18n) team, where I maintain and build the tools to provide localized content to all Zendesk products. I mostly work with Ruby on Rails, on the Backend. 
+I am Aurelie (she/her), a Software Engineer from California working at Zendesk in the Internationalization (i18n) team. I maintain and build the tools to provide localized content to all Zendesk products. I primarily work with Ruby on Rails, on the Backend. 
 
 I am also an editor and the English translator for the [WomenOnRails newsletter](https://womenonrailsinternational.substack.com/)
 
@@ -12,7 +12,7 @@ I am also an editor and the English translator for the [WomenOnRails newsletter]
 
 ### Do You Like Stats?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelieverrot&layout=compact&theme=dracula)](https://github.com/aurelieverrot)
+Too bad, I have none.
 
 
 ### Skills Shaker
@@ -20,7 +20,7 @@ I use Ruby, and also some Python and Javascript.
 I store with PostgreSQL and MySQL.
 I made my way through some DevOps tickets.
 I have experience in tiny, little, medium, and HUGE codebases.
-I train, mentor, cheer up.
+I train, mentor, and cheer up.
 I can explain one thing or two about Internationalization (i18n).
 I am internationally acclaimed for my documentation (not for my typos, but I can use the English Second Language card for that).
 I can make good cakes for my colleagues, though since I work remotely I eat them.
